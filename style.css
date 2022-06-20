@@ -23,7 +23,7 @@ header{
  nav{
      
      padding-top: 40px;
-     margin-right: 60px;
+     margin-right: 10px;
  }
  
 
@@ -78,7 +78,7 @@ flex-direction: row;
     width: 250px;
     border-radius: 10px;
     border: solid white;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
 }
 form{
     padding-left: 90px;
@@ -117,7 +117,7 @@ form{
         
     }
     nav > a{
-        margin-right: 20px;
+        margin-right: 40px;
         
     }
     .link5{
@@ -127,16 +127,18 @@ form{
     }
     main{
         flex-direction: column;
-        margin-left: -50px;
+        margin-left: -70px;
     }
     .artigo1{
-       text-align: center;
+       margin-left: 100px;
+       margin-top: -20px;
+       width: 80%;
     }
     nav{
         text-align: center;
     }
     .titulo1{
-        margin-left: -70px;
+        margin-left: 10px;
         text-align: center;
     }
     .artigo2{
@@ -151,4 +153,8 @@ form{
     .botao{
         margin: auto;
     }
+    .p1{
+        margin-right: 20px;
+    }
+   
 }
